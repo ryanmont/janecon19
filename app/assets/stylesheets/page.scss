@@ -1,0 +1,251 @@
+/* GLOBAL */
+ a{
+    text-decoration: none
+  }
+
+
+
+/* NAVBAR Styles*/
+
+.nav{
+ color: #444E63;
+ font-family: 'Raleway', sans-serif;
+ margin-top: 25px;
+
+}
+
+.nav-left{
+text-align:left
+}
+
+
+.nav li{
+  display: inline;
+  float:right;
+  margin-right:12px;
+}
+
+/* NAVBAR END */
+
+
+
+/* LANDING PAGE */
+
+.landing-top{
+margin-top: 15px;
+width:100%;
+}
+
+
+.landing-bottom-header{
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 40pt;
+  color: #444E63;
+  margin-bottom: 25px
+}
+
+
+.landing-bottom{
+  line-height: 1.9;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14pt;
+  color:#444E63;
+  margin: 50px 110px 50px 110px;
+}
+
+
+
+/* LANDING END */
+
+
+
+/* REGISTER PAGE STYLES */
+
+.register-top{
+  background-color: #F9E122;
+  height:350px;
+  width:100%;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  margin-top: 0px;
+  color:#ffffff;
+  letter-spacing: 7px;
+}
+
+
+.register-top :hover{
+  color:#444E63;
+  }
+
+
+.register-top p{
+  position: relative;
+  top: 35%;
+  transform: translateY(-50%);
+  font-size: 50pt;
+  margin-top: 15px;
+
+  -webkit-animation-duration: 4s;
+  -webkit-animation-delay: 1.5s;
+  -webkit-animation-iteration-count: 7;
+}
+
+.register-bottom-header{
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 40pt;
+  color: #444E63;
+  margin-bottom: 25px
+
+}
+
+.register-bottom{
+  line-height: 1.9;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14pt;
+  color:#444E63;
+  margin: 50px 110px 50px 110px;
+}
+
+
+/* REGISTER PAGE END */
+
+
+
+/* FAQ PAGE */
+
+.faq-top{
+  height:300px;
+  margin:25px;
+}
+
+.faq-bottom{
+
+ color:#FDCC46;
+  font-size: 14pt;
+   font-family: 'Raleway', sans-serif;
+  margin: 50px 110px 50px 110px;
+  text-align: left
+}
+
+
+.faq-bottom span{
+  
+  font-size: 12pt;
+  color:#444E63;
+  text-align: center;
+ font-family: 'Raleway', sans-serif;
+
+}
+/* FAQ END */
+
+
+
+
+/* VENUE PAGE */
+.venue-one{
+margin:12px 15% 10px 15%;
+
+}
+
+.venue-two{
+  height:40px;
+  width:300px;
+  background-color: #1CA18B;
+  color:white;
+  font-size: 17pt;
+  border-radius: 5px;
+  font-family: 'Raleway', sans-serif;
+  margin:20px;
+}
+
+.venue-two span{
+  font-family: 'Mr Dafoe', cursive;
+   font-size: 22pt;
+}
+
+.venue-three{
+ margin:50px 15% 10px 15%;
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  align-content: space-between;
+  font-family: 'Raleway', sans-serif;
+  color:#444E63;
+}
+
+.venue-three span{
+  font-weight: bold;
+}
+
+.venue-four{
+margin:12px 15% 0px 15%;
+}
+
+.venue-four hr{
+  background-color: #1CA18B;
+  height: 3px;
+  border:none;
+}
+
+.venue-five{
+  height:300px;
+  width:100%;
+  font-family: 'Raleway', sans-serif;
+  color:#444E63;
+  font-size: 12pt;
+  margin:20px;
+}
+
+.venue-five span1{
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 25pt;
+}
+
+.venue-five span2{
+  font-weight: bold
+}
+/* VENUE END */
+
+
+
+/* SCHEDULE PAGE */
+
+.schedule-top{
+  height:400px;
+  width:100%;
+  color:#444E63;
+  margin:20px;
+}
+
+
+.schedule-bottom{
+  line-height: 1.9;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14pt;
+  color:#444E63;
+  margin: 100px 110px 50px 110px;
+}
+
+
+.schedule-bottom-header{
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 40pt;
+  color: #444E63;
+  margin-bottom: 25px
+
+}
+
+
+
+/* SCHEDULE END */
+
+
+
+/* ABOUT PAGE */
+
+/* ABOUT END */
+
+
+
+
+
